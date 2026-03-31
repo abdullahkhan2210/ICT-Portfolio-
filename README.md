@@ -1,2 +1,5 @@
-# ICT-Portfolio-
-This repository contains my work, projects, and assignments related to Information and Communication Technology (ICT). It showcases my learning progress, practical implementations, and problem-solving skills using different tools, programming concepts, and technologies.
+# My ICT Portfolio 
+Name: Abdullah Khan  
+Program: BS (Software Engineering)   
+Semester: 1   
+This repository is created for my ICT assignment. 
